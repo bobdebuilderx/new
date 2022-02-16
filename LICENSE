@@ -1,5 +1,5 @@
 local plr = game:GetService("Players").LocalPlayer
-if plr:IsInGroup("13526071") then
+if plr:IsInGroup("5487906") then
  loadstring(game:HttpGet("https://raw.githubusercontent.com/bobdebuilderx/exa/main/krnl"))()
     else
     plr:Kick("aim.wow not found")
